@@ -1,4 +1,4 @@
-#### If you can't open the file, here's a google link to the document:
+#### If you can't open the file, here's a google link to the documents:
 
 > [first test case](https://docs.google.com/spreadsheets/d/10X1w86rH2IJY30Owdhb396ZlCF0DTGm2HSCi-wIZ-hY/edit?usp=sharing)
 
