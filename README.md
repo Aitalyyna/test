@@ -6,4 +6,6 @@
 
 > [SQL simple queries](https://docs.google.com/spreadsheets/d/1FM6RtTbdem-Amj9qVgsWF1ao_M_wNdlgAfpR6eunSJk/edit?usp=sharing)
 
-> [Certificate of course completion](https://drive.google.com/file/d/1iQfV6RV71vkGhSdEMmKEo764g-IEHt_4/view?usp=share_link)
+> [Тестировщик с нуля 2023 'Artsiom Rusau QA Life' Certificate of course completion](https://drive.google.com/file/d/1nw5V8X900npXvNCzuR6N4ObOCon64Lyz/view?usp=share_link)
+
+>[Тестирование ПО: подготовка к сертификации ISTQB Foundation Certigicate](https://drive.google.com/file/d/1PJgPYkFJVYhxRBu9b-F_6v246Trm3nVY/view?usp=share_link)
