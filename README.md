@@ -1,6 +1,7 @@
 #### If you can't open the file, here's a google link to the documents:
 
 > [first test case](https://docs.google.com/spreadsheets/d/10X1w86rH2IJY30Owdhb396ZlCF0DTGm2HSCi-wIZ-hY/edit?usp=sharing)
+> [test case 2](https://docs.google.com/spreadsheets/d/1d20nuIBaQPi62oTDNZexRWiFmVWJ9UeUbyJXp1RaO50/edit?usp=sharing)
 
 > [first test-design technique](https://docs.google.com/spreadsheets/d/1SwI94H9gOd_qvBKGC0yZRsMOMvckxt8Y-ZHoXm_9rQo/edit?usp=sharing)
 
